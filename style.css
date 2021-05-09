@@ -64,6 +64,7 @@ blockquote{
 	border-left: 4px solid #426db2;
 	margin-left: 5%;
 	left-padding: 10px;
+	
 }
 strong{
 	color: #426db2;
@@ -129,6 +130,7 @@ h4{
   zoom: 1;         /* for IE */
   display*:inline; /* for IE */
 }
+
 #skill{
 	text-align: center;
 }
@@ -139,6 +141,8 @@ h4{
  margin-right: 1%;
 
 }
+
+
 footer{
 	background: #47526c;
 }
